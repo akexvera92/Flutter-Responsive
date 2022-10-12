@@ -18,6 +18,9 @@ pantalla tablet
 
 pantalla movil
 ![image](https://user-images.githubusercontent.com/101748327/195226688-17f2f560-57c8-473b-bf08-87fb986b9503.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/101748327/195227165-36774cee-7f74-4bea-bc87-3b86b75ad9c7.png)
 
 
