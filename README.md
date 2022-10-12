@@ -1,18 +1,24 @@
 # responsive_dashboard_v0
 
 A new Flutter project.
+
+Joan Alexander Vera Beltran
+Proyecto responsive en flutter
+este proyecto nos sirve para mostrar diferente informacion en diferentes tamaño de pantallas este cambio es por pixeles
+
+pantalla de computador
 ![image](https://user-images.githubusercontent.com/101748327/195226469-8eb9d4c9-10c0-453b-a0a9-6967f12415a8.png)
 
 
-## Getting Started
+pantalla tablet
+![image](https://user-images.githubusercontent.com/101748327/195226611-914bab72-578d-4b67-901b-b14591b57569.png)
+![image](https://user-images.githubusercontent.com/101748327/195226650-8d0adb9a-2e6b-4a41-995e-f88161e05570.png)
 
-This project is a starting point for a Flutter application.
+pantalla movil
+![image](https://user-images.githubusercontent.com/101748327/195226688-17f2f560-57c8-473b-bf08-87fb986b9503.png)
+![image](https://user-images.githubusercontent.com/101748327/195227165-36774cee-7f74-4bea-bc87-3b86b75ad9c7.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
